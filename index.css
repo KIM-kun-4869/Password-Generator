@@ -1,0 +1,77 @@
+body {
+    margin: 115px 52px;
+    background-color: #1F2937;
+    font-family: "Inter", sans-serif;
+}
+
+.light-green {
+    color: #55F991;
+}
+
+h1 {
+    font-size: 40px;
+    color: #eee;
+    margin: 0;
+    line-height: 40px;
+    font-family: "karla", sans-serif;
+    font-weight: 800;
+    letter-spacing: -2.5%;
+}
+
+h2 {
+    margin: 0;
+    padding: 10px 0;
+    color: #D5D4D8;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0%;
+}
+
+.btn-generate {
+    color: #FFFFFF;
+    background-color: #10B981;
+    margin-top: 51px;
+    padding: 9px 17px 9px 15px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    border: none;
+    border-radius: 6px;
+}
+
+input {
+    margin-left: 200px;
+    background-color:#2F3E53;
+    color: #FFFFFF;
+    width: 211px;
+    height: 39px;
+    border: none;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.bottom-border {
+    border-bottom: 1px solid #2F3E53;
+    padding-bottom: 35px;
+
+}
+
+.btn-contenar {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 35px;
+}
+
+.btn-copy { 
+    color: #55F991;
+    background-color: #273549;
+    width: 211px;
+    height: 39px;
+    border: none;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+}
